@@ -197,7 +197,7 @@ Las **cuerdas más graves** son las **tres últimas (4ª, 5ª y 6ª)**, es decir
 
 Los **acordes mayores** son combinaciones de tres o más notas que suenan de manera "alegre" o "positiva", y están formados por la **nota raíz**, la **tercera mayor** (una distancia de cuatro semitonos) y la **quinta perfecta** (siete semitonos desde la raíz).
 
-Por ejemplo, el acorde de **Do mayor** (C) está formado por las notas **Do, Mi y Sol**.
+Por ejemplo, el acorde de **Do mayor** (C) está formado por las notas **Do**, **Mi** y **Sol**. Aunque estas notas se repitan en diferentes octavas, no se cuentan como notas adicionales al formar el acorde, ya que son la misma nota. Así, aunque se puedan tocar varias veces en diferentes cuerdas de la guitarra, el acorde sigue estando compuesto por las tres notas fundamentales: **Do**, **Mi** y **Sol**.
 
 ![Acordes Mayores](./images/Acordes_Mayores.jpg "./images/Acordes_Mayores.jpg")
 
@@ -329,6 +329,10 @@ Las **octavas** en la guitarra se pueden encontrar al mover la mano por las cuer
 
      Esto se conoce como un **patrón de octavas** en la guitarra, y usando estos intervalos puedes encontrar rápidamente las mismas notas en diferentes partes del mástil.
 
+### Intervalos que son
+
+Los intervalos en música son la distancia entre dos notas, es decir, la cantidad de tonos o semitonos que las separan. Los intervalos son esenciales para entender cómo se construyen acordes, escalas y melodías, ya que definen las relaciones sonoras entre las notas.
+
 #### Ejemplo práctico
 
 Si tocas un **Do** en el **3er traste de la 5ta cuerda (A)**, puedes encontrar el **Do** una octava más alto en el **2do traste de la 4ta cuerda (D)**.
@@ -401,4 +405,45 @@ Fa  - Fa  - Mi  - Mi  - Re - Re - Do
 
 [En el cielo, en el mar, un diamante de verdad]
 // Sol - Sol - Fa - Fa - Mi - Mi - Re //
+```
+
+## **Transportacion**
+
+**La transportación en música** es el proceso de cambiar una melodía o armonía de una tonalidad a otra, es decir, mover todas las notas de una pieza musical a una nueva tonalidad manteniendo la misma relación de intervalos entre ellas. Esto se hace para cambiar la tonalidad de una canción, hacerlo más fácil de tocar o cantar, o ajustarlo a las necesidades de los músicos.
+
+En este caso, vamos a transportar la melodía de "Estrellita, ¿dónde estás?" de la tonalidad de **Do mayor** a **Re mayor**.
+
+### Explicación de la tabla de transportación
+
+La **tabla de grados** muestra las notas de los grados (acordes) en dos tonalidades: **Do mayor** y **Re mayor**.
+
+| Estructura | T (Tono)   | T (Tono)         | ST (Semitono)  | T (Tono)          | T (Tono)      | T (Tono)            | ST (Semitono)  | -             |
+| ---------- | ---------- | ---------------- | -------------- | ----------------- | ------------- | ------------------- | -------------- | ------------- |
+| Grado      | I (Tónica) | II (Supertónica) | III (Mediante) | IV (Subdominante) | V (Dominante) | VI (Superdominante) | VII (Sensible) | VIII (Tónica) |
+| Do mayor   | Do         | Re               | Mi             | Fa                | Sol           | La                  | Si             | Do            |
+| Re mayor   | Re         | Mi               | Fa#            | Sol               | La            | Si                  | Do#            | Re            |
+
+### Proceso de transportación
+
+- Cuando cambiamos la tonalidad de **Do mayor** a **Re mayor**, todas las notas de la melodía deben subir **un tono entero** (2 semitonos). Por ejemplo:
+  - **Do**  -> **Re**
+  - **Sol** -> **La**
+  - **La**  -> **Si**
+  - **Fa**  -> **Sol**
+  - **Mi**  -> **Fa#**
+  - **Re**  -> **Mi**
+
+### Melodía transportada a Re mayor
+
+Ahora, con la tabla de grados y la regla de transportar **un tono (2 semitonos)** hacia arriba, obtenemos la melodía de **"Estrellita, ¿dónde estás?"** en la tonalidad de **Re mayor**:
+
+```markdown
+[Estrellita, ¿dónde estás?]  
+Re  - Re  - La - La - Si - Si - La  
+
+[Quiero verte sin cesar]  
+Sol  - Sol  - Fa#  - Fa#  - Mi - Mi - Re  
+
+[En el cielo, en el mar, un diamante de verdad]  
+// La - La - Sol - Sol - Fa# - Fa# - Mi //
 ```

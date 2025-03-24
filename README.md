@@ -235,6 +235,7 @@ Los grados son las diferentes posiciones o notas dentro de una escala, y se nume
 | Estructura | T (Tono)   | T (Tono)         | ST (Semitono)  | T (Tono)          | T (Tono)      | T (Tono)            | ST (Semitono)  | -             |
 | ---------- | ---------- | ---------------- | -------------- | ----------------- | ------------- | ------------------- | -------------- | ------------- |
 | Grado      | I (Tónica) | II (Supertónica) | III (Mediante) | IV (Subdominante) | V (Dominante) | VI (Superdominante) | VII (Sensible) | VIII (Tónica) |
+| Acorde     | M (Mayor)  | m (Menor)        | m (Menor)      | M (Mayor)         | M (Mayor)     | m (Menor)           | ° (Disminuido) | M (Mayor)     |
 | Do mayor   | Do         | Re               | Mi             | Fa                | Sol           | La                  | Si             | Do            |
 | Re mayor   | Re         | Mi               | Fa#            | Sol               | La            | Si                  | Do#            | Re            |
 | Mi mayor   | Mi         | Fa#              | Sol#           | La                | Si            | Do#                 | Re#            | Mi            |
@@ -242,6 +243,15 @@ Los grados son las diferentes posiciones o notas dentro de una escala, y se nume
 | Sol mayor  | Sol        | La               | Si             | Do                | Re            | Mi                  | Fa#            | Sol           |
 | La mayor   | La         | Si               | Do#            | Re                | Mi            | Fa#                 | Sol#           | La            |
 | Si mayor   | Si         | Do#              | Re#            | Mi                | Fa#           | Sol#                | La#            | Si            |
+
+### **Explicación de la Tabla**
+
+- **Los grados indican la función de cada nota en la tonalidad**.  
+- **Las letras "M" y "m" indican si el acorde es mayor o menor**.  
+  - **Mayor (M)**: Acordes con tercera mayor (Ej. Do, Fa, Sol en Do mayor).  
+  - **Menor (m)**: Acordes con tercera menor (Ej. Re, Mi, La en Do mayor).  
+  - **Disminuido (°)**: Acordes con tercera menor y quinta disminuida (Ej. Si° en Do mayor).  
+- **Los tonos y semitonos determinan la distancia entre cada grado** en la escala.  
 
 ---
 

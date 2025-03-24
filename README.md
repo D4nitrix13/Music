@@ -437,7 +437,7 @@ La **tabla de grados** muestra las notas de los grados (acordes) en dos tonalida
 
 Ahora, con la tabla de grados y la regla de transportar **un tono (2 semitonos)** hacia arriba, obtenemos la melodía de **"Estrellita, ¿dónde estás?"** en la tonalidad de **Re mayor**:
 
-```markdown
+```Markdown
 [Estrellita, ¿dónde estás?]  
 Re  - Re  - La - La - Si - Si - La  
 
@@ -446,4 +446,188 @@ Sol  - Sol  - Fa#  - Fa#  - Mi - Mi - Re
 
 [En el cielo, en el mar, un diamante de verdad]  
 // La - La - Sol - Sol - Fa# - Fa# - Mi //
+```
+
+## Segunda Melodia (Punteo) Tu Fidelidad
+
+```Markdown
+[Tu Fidelidad]
+La  - La  - Sib  - Do  
+
+[Es Grande]
+Do  - Do  - Re  - Sib  
+
+[Tu Fidelidad]
+Sol  - Sol  - Sol  - La  - Sib  
+
+[Incomparable]
+Sib  - Sib  - La  - La  - Sol  - La  
+
+[Nadie Es Como Tú]
+Fa  - Fa  - Fa  - Sol  - La  
+
+[Bendito Dios]
+La  - La  - Sib  - Sol  
+
+[Grande]
+La  - Sol  
+
+[Es Tu Fidelidad]
+Fa  - Mi  - Fa  - Sol  - Fa  
+```
+
+## **¿Qué es una Alteración Accidental? 🎵**
+
+**Una alteración accidental es un signo musical (♯ sostenido, ♭ bemol, ♮ becuadro) que modifica el sonido de una nota de forma temporal, es decir, afecta solo a la nota en la medida en que aparece dentro de un compás.**
+
+### **Alteración Accidental en la Modulación de Tonalidad**
+
+*Cuando transportamos una melodía de una tonalidad a otra, nos encontramos con un fenómeno en el cual algunas notas que existen en la tonalidad original no existen en la tonalidad destino. Para resolver este problema, aplicamos un ajuste tonal utilizando un recurso llamado alteración accidental.*
+
+| Estructura | T (Tono)   | T (Tono)         | ST (Semitono)  | T (Tono)          | T (Tono)      | T (Tono)            | ST (Semitono)  | -             |
+| ---------- | ---------- | ---------------- | -------------- | ----------------- | ------------- | ------------------- | -------------- | ------------- |
+| Grado      | I (Tónica) | II (Supertónica) | III (Mediante) | IV (Subdominante) | V (Dominante) | VI (Superdominante) | VII (Sensible) | VIII (Tónica) |
+| Do mayor   | Do         | Re               | Mi             | Fa                | Sol           | La                  | Si             | Do            |
+| La mayor   | La         | Si               | Do#            | Re                | Mi            | Fa#                 | Sol#           | La            |
+
+---
+
+### **¿Qué ocurre en este caso?**  
+
+Tomemos como ejemplo la tonalidad de **La mayor** y su estructura en grados:  
+
+| Estructura | T (Tono)   | T (Tono)         | ST (Semitono)  | T (Tono)          | T (Tono)      | T (Tono)            | ST (Semitono)  | -             |
+| ---------- | ---------- | ---------------- | -------------- | ----------------- | ------------- | ------------------- | -------------- | ------------- |
+| Grado      | I (Tónica) | II (Supertónica) | III (Mediante) | IV (Subdominante) | V (Dominante) | VI (Superdominante) | VII (Sensible) | VIII (Tónica) |
+| La mayor   | La         | Si               | Do#            | Re                | Mi            | Fa#                 | Sol#           | La            |
+
+Al trasladar esta estructura a la tonalidad de **Do mayor**, encontramos un problema:  
+
+| Estructura | T (Tono)   | T (Tono)         | ST (Semitono)  | T (Tono)          | T (Tono)      | T (Tono)            | ST (Semitono)  | -             |
+| ---------- | ---------- | ---------------- | -------------- | ----------------- | ------------- | ------------------- | -------------- | ------------- |
+| Grado      | I (Tónica) | II (Supertónica) | III (Mediante) | IV (Subdominante) | V (Dominante) | VI (Superdominante) | VII (Sensible) | VIII (Tónica) |
+| Do mayor   | Do         | Re               | Mi             | Fa                | Sol           | La                  | Si             | Do            |
+
+Si analizamos las notas que vamos a transportar, notamos que algunas **no existen** en la nueva tonalidad de Do mayor. En estos casos, aplicamos el fenómeno de la **alteración accidental**, lo que nos obliga a ajustar las notas para que encajen en la nueva tonalidad.
+
+---
+
+### **Conversión de notas al cambiar de tonalidad**  
+
+#### **1. La → Do**  
+
+- **La** es la tónica en La mayor, pero al trasladarlo a Do mayor, la tónica equivalente es **Do**.  
+- Esto es directo porque La y Do ocupan la misma función en ambas tonalidades (I grado o tónica).  
+
+#### **2. Sib → Reb**  
+
+- **Sib** no está en la tonalidad de La mayor; la nota más cercana es **Si**.  
+- Si pasamos a Do mayor, **Si** se convertiría en **Re**.  
+- Sin embargo, como **Sib** está un semitono más abajo que **Si**, en la conversión a Do mayor, en lugar de ser **Re natural**, se convierte en **Re bemol (Reb)**.  
+- **Este es un caso de alteración accidental**, ya que **Reb** no está en la tonalidad de Do mayor, pero se coloca para mantener la estructura original de la melodía.  
+
+#### **3. Do → Mib**  
+
+- En la tonalidad de **La mayor**, **Do** no existe como nota natural, sino que **Do#** ocupa su lugar.  
+- Al pasarlo a Do mayor, **Do#** no existe, así que debemos buscar su equivalente.  
+- **Do#** es el tercer grado en La mayor, por lo que debemos encontrar el tercer grado en Do mayor, que es **Mi**.  
+- Pero como **Do#** está un semitono por encima de **Do**, debemos hacer lo mismo en la nueva tonalidad, lo que nos lleva a **Mib**.  
+- **Este también es un caso de alteración accidental**, ya que **Mib** no forma parte de la tonalidad de Do mayor, pero es necesario para que la conversión sea correcta.  
+
+#### **4. Re → Fa**  
+
+- **Re** es el cuarto grado en la tonalidad de La mayor.  
+- En la tonalidad de Do mayor, el cuarto grado es **Fa**.  
+- Esto es directo, porque ambas notas ocupan la misma función dentro de sus respectivas escalas.  
+
+#### **5. Sol → Sib**  
+
+- **Sol** está en la tonalidad de La mayor, pero en Do mayor necesitamos encontrar su equivalente.  
+- **Sol** es el quinto grado en la tonalidad de La mayor.  
+- En la tonalidad de Do mayor, el quinto grado es **Sol**, pero debido a la estructura de la melodía, se desplaza un semitono hacia arriba para convertirse en **Sib**.  
+- **Otro caso de alteración accidental**.  
+
+#### **6. Fa → Lab**  
+
+- **Fa** en La mayor está alterado a **Fa#**.  
+- Al pasarlo a Do mayor, no existe **Fa#**, así que tenemos que buscar su equivalente en la nueva tonalidad.  
+- Como **Fa#** es el sexto grado en La mayor, en Do mayor el sexto grado es **La**, pero dado que Fa# está medio tono más arriba que Fa, lo convertimos en **Lab**.  
+- **Otra alteración accidental**.  
+
+#### **7. Mi → Sol**  
+
+- **Mi** en La mayor es el quinto grado, y en Do mayor, el quinto grado es **Sol**.  
+- Esto es una conversión directa.  
+
+---
+
+### **Revisión del proceso de conversión**
+
+Cuando trasladamos una nota de una tonalidad a otra, tenemos que buscar su equivalente en la nueva escala. Si la nota original **no existe** en la escala de destino, usamos **alteraciones accidentales** (sostenidos o bemoles) para ajustarla.
+
+Ahora, veamos las dos situaciones que mencionaste:
+
+---
+
+### **Caso 1: Sib → Reb**
+
+1. En la tonalidad de **La mayor**, **Sib** no existe.  
+2. La nota más cercana en la escala de La mayor es **Si** (que es el segundo grado: II).  
+3. Al transportarlo a **Do mayor**, el segundo grado es **Re**.  
+4. Como en La mayor la nota original era **Sib** (un semitono más abajo que Si), en Do mayor su equivalente debe estar un semitono más abajo que **Re**.  
+5. Entonces, **Re → Reb** para conservar la relación de distancia.  
+
+🔹 **Conclusión:**  
+**Sib → Reb** porque en la tonalidad original la nota estaba un semitono abajo de Si, y trasladamos esa misma relación a la nueva tonalidad.
+
+---
+
+### **Caso 2: Do → Mib**
+
+1. En la tonalidad de **La mayor**, **Do natural no existe**, solo **Do#** (que es el tercer grado: III).  
+2. En la tonalidad de **Do mayor**, el tercer grado (III) es **Mi**.  
+3. Como en La mayor la nota que queríamos transportar era **Do natural**, y **Do natural está un semitono por debajo de Do#**,  
+4. En la tonalidad de Do mayor, debemos trasladar la relación y tomar **Mi**, pero bajarlo un semitono.  
+5. Entonces, **Mi → Mib**.  
+
+🔹 **Conclusión:**  
+**Do → Mib** porque en La mayor la nota original (Do) estaba un semitono abajo de Do#, y trasladamos esa misma relación a la nueva tonalidad.
+
+---
+
+### **Regla general**
+
+Cuando transportamos una nota que no existe en la tonalidad destino:
+
+- Si la nota original estaba un **semitono por debajo** de la nota presente en su escala, la transportamos y **le aplicamos un bemol (♭)**.
+- Si la nota original estaba un **semitono por encima**, la transportamos y **le aplicamos un sostenido (#)**.
+
+Esto es exactamente lo que ocurrió con **Sib → Reb** y **Do → Mib**.
+
+### **Transportacion De Tu Fidelidad de (La -> Do)**
+
+```Markdown
+[Tu Fidelidad]
+Do - Do - Reb - Mib
+
+[Es Grande]
+Mib - Mib - Fa - Reb
+
+[Tu Fidelidad]
+Sib - Sib - Sib - Do - Reb
+
+[Incomparable]
+Reb - Reb - Do - Do - Sib -Do
+
+[Nadie Es Como Tu]
+Lab - Lab - Lab - Sib - Do
+
+[Bendito Dios]
+Do - Do - Reb - Sib
+
+[Grande]
+Do - Sib
+
+[Es Tu Fidelidad]
+Lab - Sol - Lab - Sib - Lab
 ```

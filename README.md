@@ -641,3 +641,25 @@ Do - Sib
 [Es Tu Fidelidad]
 Lab - Sol - Lab - Sib - Lab
 ```
+
+## **Leccion #5: Acordes Menores**
+
+![Acordes Menores](./images/Acordes_Menores.jpg "./images/Acordes_Menores.jpg")
+
+### **Cancion Me vistes a mi**
+
+```Markdown
+            1                    5
+Me vistes a mí, cuando nadie me vio,
+             6                   4
+me amaste a mi cuando nadie me amó
+             1                  5                  6
+Y me distes nombre, yo soy tu niña, la niña de tus ojos,
+                    4              1
+porque me amaste a mí Me amaste a mí
+```
+
+### **Punteo Me vistes a mi**
+
+```Markdown
+```

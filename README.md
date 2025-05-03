@@ -178,7 +178,7 @@ Las **cuerdas más graves** son las **tres últimas (4ª, 5ª y 6ª)**, es decir
 
 ## **Leccion #2: Partes De La Guitarra**
 
-![Partes Guitarra Acustica](./images/Partes_Guitarra_Acustica.jpg "./images/Partes_Guitarra_Acustica.jpg")
+![Partes Guitarra Acustica](./images/partes_guitarra_acustica.jpg "./images/partes_guitarra_acustica.jpg")
 
 1. **Puente**: Es la pieza que sostiene las cuerdas en el cuerpo de la guitarra y transmite el sonido de las cuerdas al cuerpo.
 2. **Laterales**: Son las paredes del cuerpo de la guitarra, que le dan forma y resuenan el sonido.
@@ -199,7 +199,7 @@ Los **acordes mayores** son combinaciones de tres o más notas que suenan de man
 
 Por ejemplo, el acorde de **Do mayor** (C) está formado por las notas **Do**, **Mi** y **Sol**. Aunque estas notas se repitan en diferentes octavas, no se cuentan como notas adicionales al formar el acorde, ya que son la misma nota. Así, aunque se puedan tocar varias veces en diferentes cuerdas de la guitarra, el acorde sigue estando compuesto por las tres notas fundamentales: **Do**, **Mi** y **Sol**.
 
-![Acordes Mayores](./images/Acordes_Mayores.jpg "./images/Acordes_Mayores.jpg")
+![Acordes Mayores](./images/acordes_mayores.jpg "./images/acordes_mayores.jpg")
 
 ## **Leccion #4: Escala de acordes mayores**
 
@@ -644,7 +644,7 @@ Lab - Sol - Lab - Sib - Lab
 
 ## **Leccion #5: Acordes Menores**
 
-![Acordes Menores](./images/Acordes_Menores.jpg "./images/Acordes_Menores.jpg")
+![Acordes Menores](./images/acordes_menores.jpg "./images/acordes_menores.jpg")
 
 ### **Cancion Me vistes a mi**
 

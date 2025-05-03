@@ -627,7 +627,7 @@ Mib - Mib - Fa - Reb
 Sib - Sib - Sib - Do - Reb
 
 [Incomparable]
-Reb - Reb - Do - Do - Sib -Do
+Reb - Reb - Do - Do - Sib - Do
 
 [Nadie Es Como Tu]
 Lab - Lab - Lab - Sib - Do

@@ -387,7 +387,7 @@ Un conjunto de alto nivel para guitarristas que buscan potencia y portabilidad:
 
 ## **Afinadores y Control Tonal (Pedales utilitarios)**
 
-* **[Boss TU-3W](https://www.boss.info/us/products/tu-3w/)** — Versión Waza Craft del afinador clásico TU-3, máxima precisión y bypass mejorado.
+* **[TC Electronic PolyTune 3](https://www.tcelectronic.com/product.html?modelCode=0713-AAJ)** — Afinador polifónico de alta precisión con modo estroboscópico y buffer Bonafide integrado; rápido, nítido y confiable para directo o estudio.
 * **[TC Electronic PolyTune Clip](https://www.tcelectronic.com/product.html?modelCode=0713-AAE)** — Afinador de clip polifónico de alta precisión, rápido y confiable.
 * **[Cry Baby 535Q Multi-Wah](https://www.jimdunlop.com/cry-baby-535q-multi-wah/)** — Wah personalizable con control de rango y Q, el estándar profesional.
 * **[Digitech Whammy](https://digitech.com/dp/whammy/)** — Pedal de pitch shifting con múltiples intervalos y modo “Dive Bomb”; ideal para efectos expresivos.
@@ -414,6 +414,7 @@ Un conjunto de alto nivel para guitarristas que buscan potencia y portabilidad:
 
 * **[Boss BD-2W Blues Driver Waza](https://www.boss.info/us/products/bd-2w/)** — Overdrive cálido y dinámico, con opción “Custom” más rica en medios.
 * **[Boss SD-1W Super Overdrive Waza](https://www.boss.info/us/products/sd-1w/)** — Overdrive clásico mejorado, más cuerpo y respuesta analógica.
+* **[KingTone The Duellist](https://www.kingtoneguitar.com/product/the-duellist-pedal-board-friendly/)** — Doble overdrive premium con dos canales independientes, tonos tipo SRV y “breaker”, y opciones avanzadas de recorte y orden.
 
 ### Fuzz
 

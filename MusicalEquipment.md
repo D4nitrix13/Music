@@ -494,3 +494,9 @@ Un conjunto de alto nivel para guitarristas que buscan potencia y portabilidad:
 ### Sistemas de Enfriamiento
 
 * **[AC Infinity CLOUDPLATE T2](https://acinfinity.com/equipment-cooling/equipment-racks/rack-fan-systems/cloudplate-t5-quiet-rack-cooling-fan-system-1u-rear-exhaust/)** — Sistema inteligente de ventilación 1U para racks, con control térmico y operación silenciosa.
+
+---
+
+### Locking Tunners
+
+* **[Fender Locking Stratocaster/Telecaster Tuning Machine Sets](https://intl.fender.com/products/locking-stratocaster-telecaster-tuning-machine-sets?variant=45946707181790)** — Juego de seis afinadores bloqueantes (3 postes largos + 3 cortos), relación de engranaje 18:1, montaje de doble pasador guía (“dual guide-pin”), diseñado para guitarras eléctricas tipo Strat/Tele modernas.

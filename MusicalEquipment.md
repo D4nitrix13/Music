@@ -22,6 +22,13 @@ Modelos de gama premium con electrónica avanzada, acabados modernos y comodidad
 
 ---
 
+## Guitarras Fender Jazzmaster
+
+* [Fender American Professional II Jazzmaster](https://intl.fender.com/products/american-professional-ii-jazzmaster?variant=45940641333470)
+  Guitarra de gama alta, con pastillas V-Mod II de bobina simple, sistema tremolo Panorama™, mástil rediseñado y ajustes de fábrica que la hacen muy cómoda, versátil y confiable tanto para estudio como para presentaciones en vivo.
+
+---
+
 ### **Serie American Vintage II**
 
 Inspirada en las guitarras Fender originales de los años 50 y 70, con especificaciones y materiales auténticos.
@@ -49,16 +56,6 @@ Modelos orientados a músicos de sesión y escenario, con tono equilibrado y exc
 
 ---
 
-### **Ediciones Especiales**
-
-Modelos Signature y series únicas con estética y especificaciones personalizadas.
-
-* [Fender **Dave Murray Stratocaster®**](https://intl.fender.com/products/dave-murray-stratocaster) — inspirada en el guitarrista de Iron Maiden, con tres humbuckers Seymour Duncan Hot Rails.
-* [Fender **H.E.R. Stratocaster®**](https://intl.fender.com/products/her-stratocaster?variant=45940679901406) — diseño elegante acabado Chrome Blue, pastillas Vintage Noiseless y estética moderna.
-* [Fender **Vintera II '60s Stratocaster®**](https://intl.fender.com/products/vintera-ii-60s-stratocaster?variant=45947072512222) — reissue sesentera con tono cálido, trastes vintage tall y perfil Mid '60s C.
-
----
-
 ## Guitarras Gibson
 
 ### **Semi-Hollow / Hollow Body**
@@ -73,13 +70,19 @@ Modelos Signature y series únicas con estética y especificaciones personalizad
 
 ## Guitarras PRS (Paul Reed Smith)
 
+---
+
 ### **Semi-Hollow / Hollow Body (PRS)**
 
-* [**PRS SE Hollowbody II Piezo**](https://prsguitars.com/electrics/model/se_hollowbody_ii_piezo_2025) — guitarra versátil con doble sistema de salida (eléctrica + Piezo acústico), ideal para estudio y presentaciones en vivo.
+* **PRS SE Hollowbody II Piezo (Coil-Split + Piezo)**
+  Guitarra versátil con **coil-split en sus humbuckers** para obtener sonidos tipo single-coil, además de su **doble sistema de salida (eléctrica + Piezo acústico)**, ideal para estudio y presentaciones en vivo por su enorme rango tonal.
 
-### **Floyd Rose / Tremolo de Alta Estabilidad**
+---
 
-* [**PRS SE Custom 24 Floyd**](https://prsguitars.com/electrics/model/se_custom_24_floyd_2025) — versión equipada con puente Floyd Rose 1000 Series, perfecta para técnicas agresivas, bends extremos y máxima estabilidad de afinación.
+### **Floyd Rose / Trémolo de Alta Estabilidad**
+
+* **PRS Custom 24 Floyd (Coil-Split)**
+  Versión equipada con **sistema Floyd Rose de doble bloqueo de alta estabilidad (Original Floyd Rose Tremolo)** y **coil-split en sus humbuckers**, permitiendo pasar de sonido humbucker potente a single-coil brillante. Perfecta para técnicas agresivas, bends extremos, dive-bombs y máxima versatilidad tonal.
 
 ---
 
@@ -90,12 +93,12 @@ Modelos Signature y series únicas con estética y especificaciones personalizad
 
 ---
 
-## 🎸 Guitarras Barítono
+## Guitarras Barítono
 
 * **Eléctrica** — [PRS SE 277 Barítono](https://prsguitars.com/electrics/model/se_277_2023)
   Modelo de escala extendida (~27") diseñado para afinaciones graves, con electrónica versátil que permite coil-split para mayor variedad tonal.
 
-* **Acústica/Electro-acústica** — [Álvarez ABT60E](https://alvarezguitars.com/guitar/abt60e/)
+* **Acústica/Electro-acústica** — [Álvarez ABT60CE SHADOWBURST](https://alvarezguitars.com/guitar/abt60ce-shadowburst/)
   Guitarra barítono electro-acústica, apta para afinaciones graves manteniendo proyección y claridad en cuerpo acústico.
 
 * **Semi-hollow eléctrica** — [Hagström Viking Baritone](https://www.hagstromguitars.com/electric-guitars/viking-semi-hollow/hagstrom-vikingr-deluxe-baritone)
@@ -117,10 +120,10 @@ Una línea de guitarras eléctricas barítono (6 y 12 cuerdas) de alta gama, fab
 
 ---
 
-### Guitarras barítono acústicas / electro-acústicas
+## Guitarras barítono 12 cuerdas electro-acústicas
 
-[**Martin Custom Shop J-15 Baritone 12-String Acoustic-Electric (Flame Maple)**](https://reverb.com/item/81679692-martin-custom-shop-j-15-baritone-12-string-acoustic-electric-flame-maple)
-Un modelo exclusivo de la sección Custom Shop de Martin: guitarra barítono de 12 cuerdas, acabado en maple flameado, para quien busca una acústica/electro-acústica profesional con construcción premium.
+* **Veillette Grand 16" Baritone 12-String Acoustic-Electric Guitar** — [Veillette Grand 16" Baritone 12-String](https://www.veilletteguitars.com/acoustic_grand_16_bari.shtml)  
+  Guitarra artesanal, construida desde cero para escala barítono + 12 cuerdas, con cuerpo profundo pensado para potenciar frecuencias graves, resonancia rica, intonación precisa y gran proyección acústica. Está disponible en versiones con cutaway, cuerpo tradicional u opciones personalizadas — ideal si buscas un instrumento versátil con registro grave-rico y sonido potente, más allá de configuraciones estándar.
 
 ---
 
@@ -229,12 +232,41 @@ cantidad recomendadas muchas mas de 25
 
 ---
 
-### Sistemas de Trémolo
+## Sistemas de Trémolo (Fender)
 
-Los sistemas **Bigsby** varían según el tipo de guitarra y la curvatura del cuerpo.
+Los sistemas **Bigsby** varían según el tipo de guitarra, el tipo de cuerpo y el estilo de uso. A continuación se presentan las tres opciones más recomendadas para guitarras tipo **Telecaster y Jazzmaster**:
 
-* **Mejor opción para guitarras tipo Telecaster:** [Bigsby B16](https://www.bigsby.com/products/vibratos/b16/)
-  Diseñado para cuerpos planos estilo Telecaster, ofrece una respuesta suave y clásica sin requerir grandes modificaciones.
+* **Opción más usada y versátil (recomendada para la mayoría de casos):**  
+  [**Bigsby B5 Vibrato Tailpiece**](https://www.bigsby.com/products/vibratos/b5/)
+  Diseñado para guitarras de cuerpo plano (solid-body). Es el modelo más utilizado en Telecaster y también funciona bien en Jazzmaster modificadas. Ofrece excelente estabilidad, instalación más sencilla que otros modelos y una respuesta de vibrato suave y controlable.
+
+* **Opción todoterreno para proyectos más personalizados:**  
+  [**Bigsby B7 Vibrato Tailpiece**](https://www.bigsby.com/products/vibratos/b7/)
+  Pensado originalmente para cuerpos arqueados y semihuecos, pero también puede adaptarse a guitarras sólidas con las modificaciones adecuadas. Ofrece un feel de vibrato distinto y más recorrido, ideal para proyectos personalizados.
+
+* **Opción vintage para Telecaster clásicas:**  
+  [**Bigsby B16 Vibrato Tailpiece**](https://www.bigsby.com/products/vibratos/b16/)
+  Diseñado específicamente para guitarras estilo Telecaster vintage con puente tipo “ashtray”. Ofrece una estética retro auténtica y un vibrato suave, aunque puede requerir más ajustes de instalación que el B5.
+
+## Sistemas de Trémolo (Gibson)
+
+Los sistemas **Bigsby** varían según el tipo de cuerpo (semi-hollow o sólido) y la curvatura de la tapa. A continuación se presentan las opciones más recomendadas para guitarras Gibson tipo **ES-335 y Les Paul**:
+
+* **Opción más usada y recomendada para semi-hollow (ES-335):**  
+  [**Bigsby B7 Vibrato Tailpiece**](https://www.bigsby.com/products/vibratos/b7/)  
+  Diseñado para guitarras con **tapa arqueada y cuerpo semi-hollow**. Es el modelo más utilizado en Gibson ES-335 y modelos similares. Ofrece excelente estabilidad, vibrato suave, buen ángulo de cuerdas y estética clásica Gibson.
+
+* **Opción alternativa para semi-hollow sin barra de tensión:**  
+  [**Bigsby B6 Vibrato Tailpiece**](https://www.bigsby.com/products/vibratos/b6/)  
+  Pensado para guitarras **hollow y semi-hollow** con puente flotante o Tune-O-Matic. Ofrece un tacto de vibrato más libre, con menos fricción en las cuerdas, ideal para jazz, blues y rock clásico.
+
+* **Opción más usada y recomendada para solid body (Les Paul):**  
+  [**Bigsby B7 Vibrato Tailpiece**](https://www.bigsby.com/products/vibratos/b7/)  
+  Es la opción estándar de gama alta para Gibson Les Paul con tapa arqueada. Mantiene un buen equilibrio entre **sustain, estabilidad de afinación y recorrido de vibrato**, siendo ideal para rock clásico, hard rock y blues moderno.
+
+* **Opción alternativa para proyectos personalizados en Les Paul:**  
+  [**Bigsby B3 Vibrato Tailpiece**](https://www.bigsby.com/products/vibratos/b3/)  
+  Versión más corta, usada en algunas Les Paul modificadas. Requiere mayor ajuste de puente y ángulo de cuerdas, pero mantiene la estética vintage Bigsby.
 
 ---
 

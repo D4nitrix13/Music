@@ -66,6 +66,8 @@ Modelos orientados a músicos de sesión y escenario, con tono equilibrado y exc
 
 * [**Gibson Les Paul Supreme, Ebony, 3-Pickup, Exclusive**](https://www.gibson.com/es/products/gibson-les-paul-supreme-exclusive-ebony-3-pickup?view=gibson) — modelo de gama alta con tres humbuckers, acabado Ebony y tapa arqueada AA-flame; lujo, potencia y tono clásico Gibson de nivel profesional.
 
+* [**Gibson Les Paul Custom – Ebony Fingerboard, Gloss Ebony (Gibson Custom Shop)**](https://www.gibson.com/products/gibson-custom-les-paul-custom-w-ebony-fingerboard-gloss-ebony?view=gibson) — modelo **Custom Shop** de máxima gama, con cuerpo y mástil de caoba, diapasón de ébano, hardware dorado y humbuckers de alto nivel; sonido potente, sustain legendario y construcción artesanal orientada a uso profesional y coleccionista.
+
 ---
 
 ## Guitarras PRS (Paul Reed Smith)
@@ -137,6 +139,10 @@ Una línea de guitarras eléctricas barítono (6 y 12 cuerdas) de alta gama, fab
 ## Amplificadores
 
 ### **Para Guitarra Eléctrica**
+
+#### **Blackstar**
+
+* [**Blackstar HT Club 40 MKII**](https://blackstaramps.com/product/ht-club-40-mkii/) — amplificador combo **40 W** clase A/B con dos canales (Clean y Overdrive), ecualización ISF y loop de efectos; ideal para tocar desde **blues y rock clásico hasta hard rock**, con tono británico y buena respuesta dinámica.
 
 #### **Marshall**
 

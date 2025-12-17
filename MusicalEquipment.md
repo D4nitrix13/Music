@@ -283,7 +283,7 @@ Los sistemas **Bigsby** varían según el tipo de cuerpo (semi-hollow o sólido)
 * **Capo para guitarra acústica:** [Dunlop TRIGGER® FLY™ CAPO CURVED - BLACK](https://www.jimdunlop.com/trigger-fly-capo-curved-black/)
   Capo ergonómico de diseño curvado, fabricado en aluminio anodizado negro, rápido de colocar y seguro para mástiles curvos.
 
-* **Capo para guitarra eléctrica:** [Fender® x Kyser® Quick-Change® Electric Guitar Capos](https://intl.fender.com/products/fender-x-kyser-quick-change-electric-guitar-capos?shpxid=ce90fba5-6b9e-4755-9fba-d91a990654fe)
+* **Capo para guitarra eléctrica:** [Fender® x Kyser® Quick-Change® Electric Guitar Capos](https://kysermusical.com/pages/fender)
   Capotraste colaborativo Fender x Kyser con mecanismo de resorte rápido, optimizado para diapasones más planos.
 
 * **Capo para guitarras de 12 cuerdas (acústica y eléctrica):** [Shubb C3 12-string](https://shubb.com/product/standard-capo-c3/)

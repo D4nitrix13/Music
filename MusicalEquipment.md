@@ -6,7 +6,6 @@
 
 * [**Taylor 314ce Studio**](https://www.taylorguitars.com/guitars/acoustic/314ce-studio-seb) — guitarra acústica de cuerpo Grand Auditorium con tapa sólida de abeto Sitka y fondo/aros de sapele; destaca por su equilibrio tonal y respuesta dinámica en estudio y escenario.
 * [**Martin 000C12-16E Nylon**](https://www.martinguitar.com/guitars/16-17-series/10Y24000C1216ENYLON-01.html) — modelo electroacústico profesional con cuerdas de nylon, tapa de abeto Sitka y fondo/aros de caoba; ideal para intérpretes que buscan un tono cálido y natural.
-* [**Martin D-28**](https://www.martinguitar.com/10Y25D28.html) — la icónica dreadnought de Martin, reconocida por su proyección, graves potentes y tono equilibrado; referente absoluto en grabación y directo.
 
 ---
 
@@ -60,7 +59,7 @@ Modelos orientados a músicos de sesión y escenario, con tono equilibrado y exc
 
 ### **Semi-Hollow / Hollow Body**
 
-* [**Gibson ES-335 Custom Color, Goldtop, Exclusive**](https://www.gibson.com/products/gibson-es-335-goldtop-exclusive?view=gibson) — cuerpo semi-hollow con cámaras internas y dos humbuckers; tono cálido, resonante y con sustain clásico.
+* [**Gibson Custom 1959 ES-355 Reissue, Ultra Light Aged, Ebony**](https://www.gibson.com/products/gibson-custom-1959-es-355-reissue-stop-bar-ultra-light-aged-ebony/) — cuerpo semi-hollow con cámaras internas y dos humbuckers; tono cálido, resonante y con sustain clásico.
 
 ### **Sólidas (Solid Body)**
 
@@ -76,14 +75,14 @@ Modelos orientados a músicos de sesión y escenario, con tono equilibrado y exc
 
 ### **Semi-Hollow / Hollow Body (PRS)**
 
-* **PRS SE Hollowbody II Piezo (Coil-Split + Piezo)**
+* **[PRS SE Hollowbody II Piezo (Coil-Split + Piezo)](https://prsguitars.com/electrics/model/se_hollowbody_ii_piezo_2025)**
   Guitarra versátil con **coil-split en sus humbuckers** para obtener sonidos tipo single-coil, además de su **doble sistema de salida (eléctrica + Piezo acústico)**, ideal para estudio y presentaciones en vivo por su enorme rango tonal.
 
 ---
 
 ### **Floyd Rose / Trémolo de Alta Estabilidad**
 
-* **PRS Custom 24 Floyd (Coil-Split)**
+* **[PRS Custom 24 Floyd (Coil-Split)](https://prsguitars.com/electrics/model/custom_24_floyd_2025)**
   Versión equipada con **sistema Floyd Rose de doble bloqueo de alta estabilidad (Original Floyd Rose Tremolo)** y **coil-split en sus humbuckers**, permitiendo pasar de sonido humbucker potente a single-coil brillante. Perfecta para técnicas agresivas, bends extremos, dive-bombs y máxima versatilidad tonal.
 
 ---

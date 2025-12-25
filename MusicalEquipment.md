@@ -150,7 +150,7 @@ Una línea de guitarras eléctricas barítono (6 y 12 cuerdas) de alta gama, fab
 #### **Boss**
 
 * [KATANA ARTIST HEAD GEN 3](https://www.boss.info/global/products/katana_artist_head_gen_3/) — cabezal de 100 W con motor Tube Logic Gen 3; ofrece tono de válvulas auténtico y presets profesionales.
-* [KATANA ARTIST GEN 3](https://www.boss.info/global/products/katana_artist_gen_3/) — combo premium con altavoz Waza de 12"; gran dinámica y conectividad moderna.
+* [KATANA Cabinet 212 Waza](https://www.boss.info/us/products/katana_cabinet_212_waza/) — abinete profesional 2×12" equipado con dos altavoces Waza de 12 pulgadas diseñados por BOSS; ofrece alta potencia, gran proyección y respuesta dinámica equilibrada, optimizado para cabezales Katana de gama profesional.
 
 #### **Fender**
 

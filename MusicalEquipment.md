@@ -32,8 +32,6 @@ Modelos de gama premium con electrónica avanzada, acabados modernos y comodidad
 
 Inspirada en las guitarras Fender originales de los años 50 y 70, con especificaciones y materiales auténticos.
 
-* [Fender American Vintage II **1951 Telecaster**](https://intl.fender.com/products/american-vintage-ii-1951-telecaster?variant=46374159909086) — réplica exacta del modelo pionero de 1951, con herrajes vintage y tono clásico.
-* [Fender American Vintage II **1957 Stratocaster®**](https://intl.fender.com/products/american-vintage-ii-1957-stratocaster?variant=45940646510814) — espíritu puro de los 50, pastillas Pure Vintage ’57 y perfil V soft.
 * [Fender American Vintage II **1975 Telecaster Deluxe**](https://intl.fender.com/products/american-vintage-ii-1975-telecaster-deluxe) — doble humbucker Wide Range y estética setentera icónica.
 
 ---
@@ -392,8 +390,8 @@ Para grabaciones de alta fidelidad y baja latencia, una de las mejores opciones 
 
 ## Monitores de estudio
 
-* [**PreSonus Eris Pro 8 (Single)**](https://intl.presonus.com/products/eris-pro-8-single)
-  Este monitor activo profesional de 8″ es ideal para mezcla crítica y producción de alto nivel.
+* [**Adam Audio A8H**](https://www.adam-audio.com/en/a-series/a8h/)
+  Este monitor activo profesional ideal para mezcla crítica y producción de alto nivel.
 
 ---
 
@@ -488,7 +486,6 @@ Un conjunto de alto nivel para guitarristas que buscan potencia y portabilidad:
 ## **Pedales Amplificadores / Preamp**
 
 * **[DSM & Humboldt Simplifier X](https://www.dsmhumboldt.com/simplifier-x)** — Amplificador analógico con IRs, salida estéreo y loop de efectos.
-* **[DSM & Humboldt Simplifier DLX](https://www.dsmhumboldt.com/simplifier-dlx-1)** — Versión avanzada estéreo con reverbs y canales independientes.
 
 ---
 
